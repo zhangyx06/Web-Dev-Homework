@@ -1,0 +1,4 @@
+chat.log
+chat.pid
+__pycache__/
+*.pyc
